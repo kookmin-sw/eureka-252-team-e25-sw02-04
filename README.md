@@ -229,32 +229,37 @@ Google Docs에서는 여러 기기가 동시에 문서를 보고, 수정하고, 
  오프라인 상태에서도 문서를 편집하고 다시 온라인이 되면 변경사항이 동기화됨
  문서 내에서 @멘션 기능으로 특정 사용자를 소환하고 작업 항목(task items)을 지정할 수 있음
  Google Slides, Sheets 등에서도 비슷한 공동 작업이 가능하며, 예를 들어 실시간 포인터로 다른 사용자가 작업 중인 위치를 실시간으로 볼 수 있음
-  출처 : https://support.google.com/a/users/answer/9259857?hl=ko#zippy=%2C%EB%B0%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
+
+출처 : https://support.google.com/a/users/answer/9259857?hl=ko#zippy=%2C%EB%B0%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
 
 2. 음성 인식 및 실시간 자막과 자동 번역
 Tkita 서비스는 실시간 음성 인식(STT)을 통해 음성을 텍스트로 변환하고 자막을 제공하며, 자동 번역 기능도 함께 제공함
  TkitaMobile은 QR 코드 또는 URL로 참여할 수 있으며, 음성과 텍스트 입력이 모두 가능하고 번역된 자막이 화면에 표시됨
  MossVox 자막 플러그인은 크롬 확장프로그램으로 작동하며 여러 언어를 지원하는 실시간 자막 및 번역 기능을 제공함
  일부 삼성 스마트 TV 제품에서는 실시간 음성 번역 기능을 기본으로 탑재하여 다양한 언어 간 커뮤니케이션이 가능함
-  출처 : https://www.samsungsvc.co.kr/solution/1855192
+
+출처 : https://www.samsungsvc.co.kr/solution/1855192
 
 3. 컴퓨터 비전 (물체 및 텍스트 인식)
 Google Lens는 이미지나 실시간 카메라 장면에서 물체나 텍스트를 인식하여 정보를 제공할 수 있음
  표지판이나 문서를 카메라로 비추면 텍스트를 인식해 복사하거나 번역할 수 있으며, 식물·동물·장소·제품 등도 인식 가능
  인식된 정보를 기반으로 실시간 AR 오버레이로 화면 위에 관련 정보(예: 생물 이름, 설명 등)를 띄우는 기능도 가능함
-  출처 : https://lens.google/?utm_source=chatgpt.com#shopping
+
+출처 : https://lens.google/?utm_source=chatgpt.com#shopping
 
 4. 스마트 가전·주방 (IoT)
 스마트 주방 디스플레이는 레시피 단계 안내, 타이머 설정, 냉장고 재고 확인 등의 기능을 제공하며, 음성 명령도 인식함
  조리 중에는 손을 사용하지 않고도 조리 단계 전환이나 타이머 설정이 가능해 사용자의 편의를 높임
  스마트 냉장고는 내부 카메라를 통해 재고를 확인하고 레시피를 추천하거나 자동 장보기 목록을 생성해줌
-  출처 : https://www.apple-economy.com/news/articleView.html?idxno=70458
+
+출처 : https://www.apple-economy.com/news/articleView.html?idxno=70458
 
 5. 제스처·손 추적·시선 추적
 HoloLens나 Apple Vision Pro 등에서는 공중 제스처로 메뉴 선택, 창 이동, 화면 확대 등의 조작이 가능함
  시선 추적(gaze tracking)은 사용자의 눈동자 움직임을 인식하여 보고 있는 UI 요소를 자동으로 선택하거나 강조함
  손 추적(hand tracking)은 컨트롤러 없이 손의 위치와 동작을 인식해 다양한 명령을 입력할 수 있도록 함
-  출처 : https://www.apple.com/legal/privacy/data/en/eyes-hands/?utm_source=chatgpt.com
+
+출처 : https://www.apple.com/legal/privacy/data/en/eyes-hands/?utm_source=chatgpt.com
 
 ##
 
