@@ -27,7 +27,8 @@
 
 ## 3️⃣ 한학기 동안의 활동 내역 
 
-- 2025.09.19  
+<details>
+  <summary> 2025.09.19 </summary>
   Team Mission 1 : 1965년에 그려진 내용을 보면서 현재 가능한 부분이 무엇인지 살펴보고 논의하기
   
   🔗 https://www.notion.so/2000-273a9b46d00c80589e7df3c33854b052
@@ -432,10 +433,37 @@ https://developer.apple.com/kr/augmented-reality/	(애플 공식 AR 홈페이지
 
 
 ##
+</details>
 
+<details>
+  <summary> 2025.09.26 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
 
+<details>
+  <summary> 2025.10.03 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
 
+<details>
+  <summary> 2025.10.10 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
 
+<details>
+  <summary> 2025.10.17 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
+
+<details>
+  <summary> 2025.10.24 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
+
+<details>
+  <summary> 2025.10.31 </summary>
+  - 프로젝트 내용 여기에 넣으시면 됩니다
+</details>
 
 - 기관/부서 인터뷰 ✔️  
 
