@@ -437,7 +437,8 @@ https://developer.apple.com/kr/augmented-reality/	(애플 공식 AR 홈페이지
 
 <details>
   <summary> 2025.09.26 </summary>
-## 1. MIT Sixthsense 연구팀이 만들고자 했던 것은?
+
+**1. MIT Sixthsense 연구팀이 만들고자 했던 것은?**
   
 Why (왜)?
 
