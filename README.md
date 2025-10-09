@@ -437,7 +437,8 @@ https://developer.apple.com/kr/augmented-reality/	(애플 공식 AR 홈페이지
 
 <details>
   <summary> 2025.09.26 </summary>
-  MIT Sixthsense 연구팀이 만들고자 했던 것은?
+## 1. MIT Sixthsense 연구팀이 만들고자 했던 것은?
+  
 Why (왜)?
 
 디지털-물리 세계의 단절 해소: 인간은 오감으로 물리적 세계를 인지하지만, 가장 유용할 수 있는 정보(데이터, 지식, 온라인 정보)는 디지털 세계에 갇혀 있어 쉽게 접근하기 어렵다는 문제의식에서 출발했습니다.
