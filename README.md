@@ -522,7 +522,11 @@ How (어떻게)?
 
 <details>
   <summary> 2025.10.03 </summary>
-  - 프로젝트 내용 여기에 넣으시면 됩니다
+  2040 / 2050년의 모습 
+
+
+
+  
 </details>
 
 <details>
