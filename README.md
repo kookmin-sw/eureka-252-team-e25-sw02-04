@@ -528,8 +528,10 @@ How (어떻게)?
 
 <details>
   <summary> 2025.10.10 </summary>
-  우리가 그린 2040 / 2050 년의 모습 
+  우리가 그린 2040 / 2050 년의 모습 (추후 수정)  
   
+    
+    
   <img width="796" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ec35842-0b77-482c-b9b6-b24c5063bc5f" />
 
 
