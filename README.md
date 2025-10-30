@@ -551,7 +551,8 @@ How (어떻게)?
 
 <details>
   <summary> 2025.10.31 </summary>
-  - 프로젝트 내용 여기에 넣으시면 됩니다
+  <img width="2245" height="3179" alt="image" src="https://github.com/user-attachments/assets/edd09e59-6805-4b96-8f7a-00535b374033" />
+
 </details>
 
 - 기관/부서 인터뷰 ✔️  
