@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # Welcome to 4팀
 
+  <img width="2245" height="3179" alt="image" src="https://github.com/user-attachments/assets/edd09e59-6805-4b96-8f7a-00535b374033" />
+
 ## 1️⃣ 팀원 소개
 
 | **이름** | **전공** | **관심사** |
